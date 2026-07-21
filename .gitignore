@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+.env
+
+# Poetry/virtualenv
+.venv/
+
+# Node
+node_modules/
+dist/
+build/
+
+# Vite
+.vite/
+
+# OS files
+.DS_Store
+Thumbs.db
